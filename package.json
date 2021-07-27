@@ -1,0 +1,28 @@
+{
+  "name": "disco_bot",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node": "^16.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JP3tri3/disco_bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "JP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JP3tri3/disco_bot/issues"
+  },
+  "homepage": "https://github.com/JP3tri3/disco_bot#readme"
+}
